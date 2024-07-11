@@ -1,0 +1,10 @@
+^C:\USERS\BENIB\DESKTOP\348\ONLINE-CONNECT-4-CLIENT\BUILD\CMAKEFILES\A8E8220D5A2238D9393B475804D72881\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/benib/Desktop/348/online-connect-4-client -BC:/Users/benib/Desktop/348/online-connect-4-client/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/benib/Desktop/348/online-connect-4-client/build/client.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

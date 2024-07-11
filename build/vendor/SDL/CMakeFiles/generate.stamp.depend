@@ -1,0 +1,47 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakePushCheckState.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLanguage.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLinkerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckStructHasMember.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindGit.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPkgConfig.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckLinkerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/build/vendor/SDL/SDL_build_config.h.intermediate
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/CMakeLists.txt
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/3rdparty.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/FindLibUSB.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/GetGitRevisionDescription.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/PreseedMSVCCache.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/SDL3Config.cmake.in
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/cmake_uninstall.cmake.in
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/macros.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/sdlchecks.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/sdlcompilers.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/sdlcpu.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/sdlmanpages.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/sdlplatform.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/cmake/sdltargets.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/include/build_config/SDL_build_config.h.cmake
+C:/Users/benib/Desktop/348/online-connect-4-client/vendor/SDL/include/build_config/SDL_revision.h.cmake
