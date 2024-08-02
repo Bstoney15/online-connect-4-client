@@ -1,7 +1,0 @@
-C:/Users/benib/Desktop/348/online-connect-4-client/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/benib/Desktop/348/online-connect-4-client/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/benib/Desktop/348/online-connect-4-client/build/vendor/SDL/CMakeFiles/SDL3-static.dir
-C:/Users/benib/Desktop/348/online-connect-4-client/build/vendor/SDL/CMakeFiles/SDL3_test.dir
-C:/Users/benib/Desktop/348/online-connect-4-client/build/vendor/SDL/CMakeFiles/uninstall.dir
-C:/Users/benib/Desktop/348/online-connect-4-client/build/vendor/SDL/CMakeFiles/ALL_BUILD.dir
-C:/Users/benib/Desktop/348/online-connect-4-client/build/src/CMakeFiles/client.dir
